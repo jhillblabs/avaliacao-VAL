@@ -4,6 +4,10 @@ git config --global user.email jhilzinhavendito@gamil.com
 1. Baixar as dependências do projeto executanto o comando:
    npm i
 
+
+npm install @react-navigation/native
+npm install @react-navigation/native-stack
+
 2. Instalando o metro:
    npx expo install react-native-web react-dom @expo/metro-runtime
 
